@@ -22,9 +22,5 @@ mkdir ~/.config/nvim
 ```
 clone the repository
 ```
-git clone https://github.com/gb8462/LazyVim_Config.git
-```
-move the configuration to your neovim config
-```
-mv LazyVim_Config/* ~/.config/nvim
+git clone https://github.com/gb8462/LazyVim_Config/ ~/.config/nvim
 ```
