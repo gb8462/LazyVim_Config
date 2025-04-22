@@ -16,11 +16,15 @@ Install neovim
 ```
 sudo pacman -S neovim
 ```
-create a neovim config
+Create a neovim config
 ```
 mkdir ~/.config/nvim
 ```
-clone the repository
+Clone the repository
 ```
 git clone https://github.com/gb8462/LazyVim_Config/ ~/.config/nvim
+```
+Open neovim
+```
+nvim
 ```
