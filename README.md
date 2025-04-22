@@ -26,5 +26,5 @@ git clone https://github.com/gb8462/LazyVim_Config.git
 ```
 move the configuration to your neovim config
 ```
-mv -r LazyVim_Config/* ~/.config/nvim
+mv LazyVim_Config/* ~/.config/nvim
 ```
