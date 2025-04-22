@@ -14,7 +14,7 @@
 
 Install neovim
 ```
-Sudo pacman -S neovim
+sudo pacman -S neovim
 ```
 create a neovim config
 ```
