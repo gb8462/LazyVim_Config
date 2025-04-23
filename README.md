@@ -4,9 +4,9 @@
 
 <h2 align="center">Preview</h2>
 
-![image](https://github.com/user-attachments/assets/41d7de09-81a5-4c38-b55f-b833e2a0dc71)
-![image](https://github.com/user-attachments/assets/d52d4dc2-e406-4ab8-b769-9277120f2727)
-![image](https://github.com/user-attachments/assets/44cddb75-6d44-41ad-aedf-5d4e5c02eb67)
+![image](https://github.com/user-attachments/assets/7a1556d1-8e92-46ec-b684-471306f07902)
+![image](https://github.com/user-attachments/assets/1e235c86-5133-4cb4-8530-45093474fbc0)
+![image](https://github.com/user-attachments/assets/4831b3d7-2346-49d7-89e7-7d3764fbc911)
 
 ---
 
